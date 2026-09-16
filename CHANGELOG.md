@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.2] - 2026-09-16
+
+### Changed
+- Updated repository and demo URLs to `ammar3040/family-tree-svg`.
+- Added interactive demo panel documentation and preview to `README.md`.
+- Updated package homepage, bugs tracker, and repository git URLs.
+
 ## [1.1.0] - 2026-09-11
 
 ### Added
