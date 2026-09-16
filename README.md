@@ -8,14 +8,14 @@
 <p align="center">
   <a href="https://www.npmjs.com/package/family-tree-svg"><img src="https://img.shields.io/npm/v/family-tree-svg.svg?style=flat-square&color=2ea44f" alt="npm version" /></a>
   <a href="https://www.npmjs.com/package/family-tree-svg"><img src="https://img.shields.io/npm/dm/family-tree-svg.svg?style=flat-square&color=blue" alt="npm downloads" /></a>
-  <a href="https://github.com/ammar3040/family-tree-package"><img src="https://img.shields.io/github/stars/ammar3040/family-tree-package.svg?style=flat-square&color=yellow" alt="GitHub stars" /></a>
-  <a href="https://github.com/ammar3040/family-tree-package/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg?style=flat-square" alt="MIT license" /></a>
+  <a href="https://github.com/ammar3040/family-tree-svg"><img src="https://img.shields.io/github/stars/ammar3040/family-tree-svg.svg?style=flat-square&color=yellow" alt="GitHub stars" /></a>
+  <a href="https://github.com/ammar3040/family-tree-svg/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg?style=flat-square" alt="MIT license" /></a>
   <img src="https://img.shields.io/badge/dependencies-0-brightgreen.svg?style=flat-square" alt="zero dependencies" />
   <img src="https://img.shields.io/badge/types-TypeScript-blue.svg?style=flat-square" alt="TypeScript ready" />
 </p>
 
 <p align="center">
-  <a href="https://ammar3040.github.io/family-tree-package/"><b>🌐 Live Interactive Demo</b></a> &bull;
+  <a href="https://ammar3040.github.io/family-tree-svg/demo/"><b>🌐 Live Interactive Demo</b></a> &bull;
   <a href="#quick-start"><b>⚡ Quick Start</b></a> &bull;
   <a href="#-visual-style-catalog"><b>🎨 Visual Catalog</b></a> &bull;
   <a href="#api-reference"><b>📖 API Reference</b></a> &bull;
@@ -24,8 +24,34 @@
 </p>
 
 <p align="center">
-  <img src="./assets/khan_tree_1.svg" alt="Family Tree SVG — organic family tree rendered from JSON, showing calligraphic trunk and botanical leaves" width="100%" />
+  <a href="https://ammar3040.github.io/family-tree-svg/demo/">
+    <img src="./assets/khan_tree_1.svg" alt="Family Tree SVG — organic family tree rendered from JSON, showing calligraphic trunk and botanical leaves" width="100%" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://ammar3040.github.io/family-tree-svg/demo/">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Try%20Live%20Demo%20Panel-Click%20Here-success?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Try Live Demo Panel" />
+  </a>
+</p>
+
+---
+
+## 🎮 Live Interactive Demo Panel
+
+Explore and customize living trees directly in your browser:
+
+[![Family Tree SVG Interactive Demo Panel](./assets/demo_preview.png)](https://ammar3040.github.io/family-tree-svg/demo/)
+
+👉 **[Open Live Demo Panel &rarr; https://ammar3040.github.io/family-tree-svg/demo/](https://ammar3040.github.io/family-tree-svg/demo/)**
+
+The interactive showcase lets you test all features in real time:
+- 🌿 **5 Branch Styles** — `woodcut` (living sap lines), `gnarled` (rustic knots), `classic` (smooth curves), `willow_tendril`, `zen_bonsai`
+- 🌳 **4 Trunk Styles** — `calligraphic` (elegant S-curve), `gnarled_veteran`, `banyan_cathedral`, `dragon_bonsai`
+- 🍃 **7 Botanical Leaf Species** — `laurel`, `oval`, `oak`, `ginkgo`, `maple`, `birch`, `linden`
+- 🖼️ **Dual Leaf Render Modes** — Pure Vector SVG path mode or High-Resolution Textured PNG Asset mode
+- 🎨 **Curated Color Palettes** — Emerald, Autumn, Cherry Blossom, Pine, Sunset
+- 🔍 **Interactive Canvas** — Drag to pan, mouse-wheel / touch pinch zoom, expandable/collapsible nodes, fit view, and one-click SVG export
 
 ---
 
@@ -445,5 +471,5 @@ MIT — see [LICENSE](LICENSE).
 ---
 
 <p align="center">
-  If this helped your project, a ⭐ on <a href="https://github.com/ammar3040/family-tree-package">GitHub</a> helps others find it too.
+  If this helped your project, a ⭐ on <a href="https://github.com/ammar3040/family-tree-svg">GitHub</a> helps others find it too.
 </p>

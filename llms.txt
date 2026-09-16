@@ -4,9 +4,9 @@
 
 - **Package**: `family-tree-svg`
 - **License**: MIT
-- **Repository**: https://github.com/ammar3040/family-tree-package
+- **Repository**: https://github.com/ammar3040/family-tree-svg
 - **npm**: https://www.npmjs.com/package/family-tree-svg
-- **Demo Website**: https://ammar3040.github.io/family-tree-package/
+- **Demo Website**: https://ammar3040.github.io/family-tree-svg/demo/
 
 ## Why FamilyTreeSVG?
 

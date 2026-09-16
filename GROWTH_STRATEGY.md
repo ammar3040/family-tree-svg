@@ -55,7 +55,7 @@ This playbook outlines a comprehensive, legitimate, and sustainable developer ad
 - [x] Add GitHub community files: `LICENSE`, `CHANGELOG.md`, `CONTRIBUTING.md`, issue templates, PR template, CI workflow.
 - [x] Upgrade interactive demo website with copy-to-clipboard buttons, live code generator, and full Schema.org structured data.
 - [x] Publish `llms.txt` standard specification file for AI search crawlers.
-- [ ] Deploy the demo portal to GitHub Pages (`ammarcoderkube.github.io/family-tree-package`).
+- [x] Deploy the demo portal to GitHub Pages (`ammar3040.github.io/family-tree-svg/demo/`).
 - [ ] Add GitHub repository topics: `family-tree`, `svg`, `genealogy`, `visualization`, `family-tree-generator`, `javascript`, `typescript`, `organic-tree`, `pedigree-chart`, `d3-alternative`.
 
 ### Days 31 – 60: Content & Community Outreach

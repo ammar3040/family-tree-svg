@@ -4,11 +4,11 @@ Thank you for your interest in contributing to **FamilyTreeSVG**! We welcome con
 
 ## Getting Started
 
-1. **Fork the Repository** on GitHub: [github.com/ammarcoderkube/family-tree-package](https://github.com/ammarcoderkube/family-tree-package)
+1. **Fork the Repository** on GitHub: [github.com/ammar3040/family-tree-svg](https://github.com/ammar3040/family-tree-svg)
 2. **Clone your fork**:
    ```bash
-   git clone https://github.com/your-username/family-tree-package.git
-   cd family-tree-package
+   git clone https://github.com/your-username/family-tree-svg.git
+   cd family-tree-svg
    ```
 3. **Run the local demo**:
    ```bash
