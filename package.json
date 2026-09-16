@@ -1,7 +1,7 @@
 {
   "name": "family-tree-svg",
-  "version": "1.1.1",
-  "description": "Pure organic SVG family tree visualization for JavaScript & TypeScript — generates realistic living trees with calligraphic trunks, botanical leaves, pan/zoom, dynamic themes, and vector export from JSON data.",
+  "version": "1.1.2",
+  "description": "Pure organic SVG family tree visualization for JavaScript & TypeScript \u2014 generates realistic living trees with calligraphic trunks, botanical leaves, pan/zoom, dynamic themes, and vector export from JSON data.",
   "main": "src/family-tree-svg.js",
   "types": "src/index.d.ts",
   "files": [
@@ -18,7 +18,7 @@
   ],
   "scripts": {
     "demo": "npx -y serve demo",
-    "test": "node -e \"const F = require('./src/family-tree-svg.js'); if (!F || !F.create) throw new Error('Export failed'); console.log('✓ family-tree-svg tests passed');\""
+    "test": "node -e \"const F = require('./src/family-tree-svg.js'); if (!F || !F.create) throw new Error('Export failed'); console.log('\u2713 family-tree-svg tests passed');\""
   },
   "keywords": [
     "family-tree",
